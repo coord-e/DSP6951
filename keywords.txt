@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map DSP6951
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DSP6951	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setVolume	KEYWORD2
+setChannel	KEYWORD2
+setMode	KEYWORD2
+setMute	KEYWORD2
+getVolume	KEYWORD2
+getChannel	KEYWORD2
+getMode	KEYWORD2
+getMute	KEYWORD2
+tune	KEYWORD2
+getCNR	KEYWORD2
+getRSSI	KEYWORD2
+isTuned	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+FM	LITERAL1
+AM	LITERAL1
