@@ -1,5 +1,5 @@
 # DSP6951
-Library for DSP6951 DSP Radio IC.
+Arduino Library for DSP6951 DSP Radio IC.
 
 ## Supported devices
 - [DSP6951](http://www.aitendo.com/product/7350)
